@@ -1,0 +1,11 @@
+# compiled binary
+pro-cron
+pro-cron.exe
+
+# your personal crontab (keep it out of version control)
+*.proc
+*.tab
+
+# Go build cache
+*.test
+*.out
