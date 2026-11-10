@@ -1,5 +1,7 @@
 # pro-cron
 
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-0f766e)](https://mediuswareltd.github.io/pro-cron/)
+
 <p align="center">
   <img src="arts/logo.png" width="250" height="250" alt="pro-cron logo" />
 </p>
@@ -195,3 +197,15 @@ If you need any of these, consider using the system `crond` or a more full-featu
 ## License
 
 MIT
+
+## Documentation
+
+Full docs site (VitePress): **https://mediuswareltd.github.io/pro-cron/**
+
+Local preview:
+
+```bash
+cd docs
+npm install
+npm run docs:dev
+```
